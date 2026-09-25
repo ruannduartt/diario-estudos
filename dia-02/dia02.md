@@ -10,4 +10,4 @@
 Não entendi como funcionava o servidor Apache.
 
 ## Como resolvi
-Pesquisei e vi que é um  servidor que recebe requisições do cliente, descobre o que foi pedido, busca ou gera esse conteúdo, e devolve a resposta.
+Pesquisei e vi que é um servidor que recebe requisições do cliente, descobre o que foi pedido, busca ou gera esse conteúdo, e devolve a resposta.
